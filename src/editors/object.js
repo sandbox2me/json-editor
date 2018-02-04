@@ -710,6 +710,7 @@ JSONEditor.defaults.editors.object = JSONEditor.AbstractEditor.extend({
         }
       }
       return result;
+    }
   },
   refreshValue: function() {
     this.value = {};
