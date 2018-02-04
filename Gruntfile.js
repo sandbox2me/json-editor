@@ -22,6 +22,9 @@ module.exports = function(grunt) {
           // The main JSONEditor class
           'src/core.js',
 
+          // Sorters
+          'src/sorters.js',
+
           // JSON Schema validator
           'src/validator.js',
 
